@@ -1,0 +1,4 @@
+﻿  Exercicio3.cpp
+  LINK : C:\Users\47446295805\Desktop\Exercicio3-C-main\x64\Debug\Exercicio3.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+MSVCRTD.lib(exe_main.obj) : error LNK2019: símbolo externo não resolvido, main, referenciado na função "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\47446295805\Desktop\Exercicio3-C-main\x64\Debug\Exercicio3.exe : fatal error LNK1120: 1 externo não resolvidos
